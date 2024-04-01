@@ -1,2 +1,4 @@
 # similarity-check
-pip3 install difflib
+Requirements
++difflib
++tkinter
